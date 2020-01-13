@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "",
+        "image": "https://github.com/CristianPaez/ImageEmp/blob/master/ImageTeam/Team1.png",
         "name": "MARIAJOSÉ SATIZÁBAL GALLO",
         "position": "CEO",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
@@ -9,43 +9,43 @@
     {
         "id": 2,
         "image": "",
-        "name": "MARIAJOSÉ SATIZÁBAL GALLO",
-        "position": "CEO",
+        "name": "DIEGO BARRAGÁN",
+        "position": "GERENTE INNOVACIÓN",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
         "id": 3,
         "image": "",
-        "name": "MARIAJOSÉ SATIZÁBAL GALLO",
-        "position": "CEO",
+        "name": "MICHAEL DUARTE",
+        "position": "GERENTE TECNOLOGÍA",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
         "id": 4,
         "image": "",
-        "name": "MARIAJOSÉ SATIZÁBAL GALLO",
-        "position": "CEO",
+        "name": "DAIAN QUITENRO",
+        "position": "GERENTE COMERCIAL",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
         "id": 5,
         "image": "",
-        "name": "MARIAJOSÉ SATIZÁBAL GALLO",
-        "position": "CEO",
+        "name": "ANGELA MARIA",
+        "position": "GERENTE JURÍDICO",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
         "id": 6,
         "image": "",
-        "name": "MARIAJOSÉ SATIZÁBAL GALLO",
-        "position": "CEO",
+        "name": "JAVIER GALLEGO",
+        "position": "CARGO",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
         "id": 7,
         "image": "",
-        "name": "asdfghjklñ{sdfghjklñ{sdfghjklñ{",
-        "position": "CEO",
+        "name": "JUAN IGNACIO VÉLEZ",
+        "position": "GERENTE EXPERIENCIA",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     }
 ]
