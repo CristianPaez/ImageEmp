@@ -1,1 +1,37 @@
-
+[
+    {
+        "id": "1",
+        "image": "https://www.shell.com.co/about-us/the-shell-brand/_jcr_content/pagePromo/image.img.960.jpeg/1477388205164/retail-station-canopy-with-shell-logo.jpeg?imwidth=960",
+        "nameCorp": "CLIENTE: SHELL COLOMBIA",
+        "SubNameCorp": "Shell CPS, Fidelizando los talleres colombianos",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s."
+    },
+    {
+        "id": "2",
+        "image": "https://lh3.googleusercontent.com/5CJqjD4J0jcyyotvCI7Q8-vsc03f5USraL_-BZCD2lSHTFkwrq03_--22K4qbqGCnno",
+        "nameCorp": "CLIENTE: CHIPER",
+        "SubNameCorp": "Chiper",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s."
+    },
+    {
+        "id": "3",
+        "image": "https://www.bmw.com.co/content/dam/bmw/marketLATAM/bmw_com_co/Importadores/Villavicencio/fachada_485x485.jpg",
+        "nameCorp": "CLIENTE: AUTOGERMANA",
+        "SubNameCorp": "Autogermana",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s."
+    },
+    {
+        "id": "4",
+        "image": "https://www.imagen.com.mx/assets/img/imagen_share.png",
+        "nameCorp": "CLIENTE: STARTUPS",
+        "SubNameCorp": "Startups",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s."
+    },
+    {
+        "id": "5",
+        "image": "https://www.arsenalterapeutico.com/wp-content/uploads/2018/11/farmatodo_.jpg",
+        "nameCorp": "CLIENTE: FARMATODO",
+        "SubNameCorp": "Farmatodo",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s."
+    }
+]
