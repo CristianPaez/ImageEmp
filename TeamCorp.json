@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "{Team1}",
+        "image": "Team1",
         "name": "MARIAJOSÉ SATIZÁBAL GALLO",
         "position": "CEO",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
@@ -42,6 +42,24 @@
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
+        "id": 7,
+        "image": "",
+        "name": "JUAN IGNACIO VÉLEZ",
+        "position": "GERENTE EXPERIENCIA",
+        "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
+    },{
+        "id": 7,
+        "image": "",
+        "name": "JUAN IGNACIO VÉLEZ",
+        "position": "GERENTE EXPERIENCIA",
+        "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
+    },{
+        "id": 7,
+        "image": "",
+        "name": "JUAN IGNACIO VÉLEZ",
+        "position": "GERENTE EXPERIENCIA",
+        "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
+    },{
         "id": 7,
         "image": "",
         "name": "JUAN IGNACIO VÉLEZ",
