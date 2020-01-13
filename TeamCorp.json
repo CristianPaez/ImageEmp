@@ -8,42 +8,42 @@
     },
     {
         "id": 2,
-        "image": "{Team1}",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team2.png",
         "name": "DIEGO BARRAGÁN",
         "position": "GERENTE INNOVACIÓN",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
         "id": 3,
-        "image": "{Team1}",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team4.png",
         "name": "MICHAEL DUARTE",
         "position": "GERENTE TECNOLOGÍA",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
         "id": 4,
-        "image": "{Team1}",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team5.png",
         "name": "DAIAN QUITENRO",
         "position": "GERENTE COMERCIAL",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
         "id": 5,
-        "image": "{Team1}",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team6.png",
         "name": "ANGELA MARIA",
         "position": "GERENTE JURÍDICO",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
         "id": 6,
-        "image": "{Team1}",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team7.png",
         "name": "JAVIER GALLEGO",
         "position": "CARGO",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
         "id": 7,
-        "image": "{Team1}",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team8.png",
         "name": "JUAN IGNACIO VÉLEZ",
         "position": "GERENTE EXPERIENCIA",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
