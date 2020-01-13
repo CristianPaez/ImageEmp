@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "{Team1}",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team1.png",
         "name": "MARIAJOSÉ SATIZÁBAL GALLO",
         "position": "CEO",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
