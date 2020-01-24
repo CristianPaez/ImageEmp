@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImagesGenerals/Group9.png",
+        "titleInfo": "Consultoría de negocios digitales",
+        "subTitleInfo": "",
+        "description": ""
+    },
+    {
+        "id": "2",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImagesGenerals/Group9.png",
+        "titleInfo": "Contrucción de pilotos para Startups",
+        "subTitleInfo": "",
+        "description": ""
+    },
+    {
+        "id": "3",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImagesGenerals/Group9.png",
+        "titleInfo": "Consultoría en diseños de producto y servicio",
+        "subTitleInfo": "",
+        "description": ""
+    },
+    {
+        "id": "4",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImagesGenerals/Group9.png",
+        "titleInfo": "Construcción de tecnologia",
+        "subTitleInfo": "",
+        "description": ""
+    },
+    {
+        "id": "5",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImagesGenerals/Group9.png",
+        "titleInfo": "Marketing para crecimiento de ventas digitales",
+        "subTitleInfo": "",
+        "description": ""
+    },
+]
