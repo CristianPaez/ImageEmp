@@ -1,49 +1,49 @@
 [
     {
         "id": 1,
-        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team1.png",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team1-min.png",
         "name": "MARIAJOSÉ SATIZÁBAL GALLO",
         "position": "CEO",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
         "id": 2,
-        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team2.png",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team2-min.png",
         "name": "DIEGO BARRAGÁN",
         "position": "GERENTE INNOVACIÓN",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
         "id": 3,
-        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team4.png",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team4-min.png",
         "name": "MICHAEL DUARTE",
         "position": "GERENTE TECNOLOGÍA",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
         "id": 4,
-        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team5.png",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team5-min.png",
         "name": "DAIAN QUITENRO",
         "position": "GERENTE COMERCIAL",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
         "id": 5,
-        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team6.png",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team6-min.png",
         "name": "ANGELA MARIA",
         "position": "GERENTE JURÍDICO",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
         "id": 6,
-        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team7.png",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team7-min.png",
         "name": "JAVIER GALLEGO",
         "position": "CARGO",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
         "id": 7,
-        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team8.png",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team8-min.png",
         "name": "JUAN IGNACIO VÉLEZ",
         "position": "GERENTE EXPERIENCIA",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
