@@ -2,36 +2,36 @@
     {
         "id": "1",
         "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImagesGenerals/Group9.png",
-        "titleInfo": "Consultoría de negocios digitales",
-        "subTitleInfo": "",
-        "description": ""
+        "titleInfo": "Consultoría",
+        "subTitleInfo": "Negocios Digitales",
+        "description": "Diseñamos los modelos de negocio digitales para transformar el futuro."
     },
     {
         "id": "2",
         "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImagesGenerals/Group9.png",
-        "titleInfo": "Contrucción de pilotos para Startups",
-        "subTitleInfo": "",
+        "titleInfo": "Consultorías",
+        "subTitleInfo": "Pilotos para Startups",
         "description": ""
     },
     {
         "id": "3",
         "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImagesGenerals/Group9.png",
-        "titleInfo": "Consultoría en diseños de producto y servicio",
-        "subTitleInfo": "",
-        "description": ""
+        "titleInfo": "Consultoría",
+        "subTitleInfo": "Experiencias de Cliente",
+        "description": "Construimos productos intutivos y deseables que enamoran a tus clientes."
     },
     {
         "id": "4",
         "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImagesGenerals/Group9.png",
-        "titleInfo": "Construcción de tecnologia",
-        "subTitleInfo": "",
-        "description": ""
+        "titleInfo": "Consultoría",
+        "subTitleInfo": "Construcción de Tecnología",
+        "description": "Creamos productos que evolucionan y escalan tu negocio. "
     },
     {
         "id": "5",
         "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImagesGenerals/Group9.png",
-        "titleInfo": "Marketing para crecimiento de ventas digitales",
-        "subTitleInfo": "",
-        "description": ""
+        "titleInfo": "Consultoría",
+        "subTitleInfo": "Marketing de crecimiento ",
+        "description": "Ejecutamos tu oferta de valor en canales digitales  para aumentar tus ventas."
     }
 ]
