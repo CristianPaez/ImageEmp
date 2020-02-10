@@ -15,16 +15,16 @@
     },
     {
         "id": 3,
-        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team4.jpeg",
-        "name": "MICHAEL DUARTE",
-        "position": "GERENTE TECNOLOGÍA",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team5.jpeg",
+        "name": "DAIAN QUITENRO",
+        "position": "GERENTE COMERCIAL",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
         "id": 4,
-        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team5.jpeg",
-        "name": "DAIAN QUITENRO",
-        "position": "GERENTE COMERCIAL",
+        "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team4.jpeg",
+        "name": "MICHAEL DUARTE",
+        "position": "GERENTE TECNOLOGÍA",
         "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida."
     },
     {
