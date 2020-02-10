@@ -38,13 +38,5 @@
         "subNameCorp": "Startups",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s.",
         "color": "#5BAFE1"
-    },
-    {
-        "id": "6",
-        "image": "https://www.arsenalterapeutico.com/wp-content/uploads/2018/11/farmatodo_.jpg",
-        "nameCorp": "CLIENTE: FARMATODO",
-        "subNameCorp": "Farmatodo",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s.",
-        "color": ""
     }
 ]
