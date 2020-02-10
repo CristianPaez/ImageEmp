@@ -4,41 +4,47 @@
         "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImagesGenerals/Group30.webp",
         "nameCorp": "CLIENTE: SHELL COLOMBIA",
         "subNameCorp": "Shell CPS, Fidelizando los talleres colombianos",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s."
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s.",
+        "color": "#FBD133"
     },
     {
         "id": "2",
         "image": "https://www.imagen.com.mx/assets/img/imagen_share.png",
         "nameCorp": "CLIENTE: CREDIBANCO",
         "subNameCorp": "Credibanco",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s."
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s.",
+        "color": "#582E87"
     },
     {
         "id": "3",
         "image": "https://www.imagen.com.mx/assets/img/imagen_share.png",
         "nameCorp": "CLIENTE: CHIPER",
         "subNameCorp": "Chiper",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s."
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s.",
+        "color": "#F80135"
     },
     {
         "id": "4",
         "image": "https://www.bmw.com.co/content/dam/bmw/marketLATAM/bmw_com_co/Importadores/Villavicencio/fachada_485x485.jpg",
         "nameCorp": "CLIENTE: AUTOGERMANA",
         "subNameCorp": "Autogermana",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s."
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s.",
+        "color": "#000000"
     },
     {
         "id": "5",
         "image": "https://www.imagen.com.mx/assets/img/imagen_share.png",
         "nameCorp": "CLIENTE: STARTUPS",
         "subNameCorp": "Startups",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s."
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s.",
+        "color": "#5BAFE1"
     },
     {
         "id": "6",
         "image": "https://www.arsenalterapeutico.com/wp-content/uploads/2018/11/farmatodo_.jpg",
         "nameCorp": "CLIENTE: FARMATODO",
         "subNameCorp": "Farmatodo",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s."
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s.",
+        "color": ""
     }
 ]
