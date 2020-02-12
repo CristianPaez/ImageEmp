@@ -1,41 +1,41 @@
 [
     {
-        "id": 1,
+        "id": "1",
         "title": "Experiencia Digital",
         "textTitle": "Nuestra trayectoria nos ha enseñado que el éxito de todo modelo de negocio digital se basa en generar y entregar valor a través de tecnología diseñada en funcion de las necesidades de los usuarios.",
         "subTitle": "Nuestras habilidades",
         "dataSubText": ["User Experience", "User Experience", "User Experience", "User Experience", "User Experience", "User Experience"]
     },
     {
-        "id": 2,
+        "id": "2",
         "title": "Data 2",
         "textTitle": "Data 2",
         "subTitle": "Nuestras habilidades",
         "dataSubText": ["User Experience", "User Experience", "User Experience", "User Experience", "User Experience", "User Experience"]
     },
     {
-        "id": 3,
+        "id": "3",
         "title": "Data 3",
         "textTitle": "Data 3",
         "subTitle": "Nuestras habilidades",
         "dataSubText": ["User Experience", "User Experience", "User Experience", "User Experience", "User Experience", "User Experience"]
     },
     {
-        "id": 4,
+        "id": "4",
         "title": "Data 4",
         "textTitle": "Data 4",
         "subTitle": "Nuestras habilidades",
         "dataSubText": ["User Experience", "User Experience", "User Experience", "User Experience", "User Experience", "User Experience"]
     },
     {
-        "id": 5,
+        "id": "5",
         "title": "Data 5",
         "textTitle": "Data 5",
         "subTitle": "Nuestras habilidades",
         "dataSubText": ["User Experience", "User Experience", "User Experience", "User Experience", "User Experience", "User Experience"]
     },
     {
-        "id": 6,
+        "id": "6",
         "title": "Data 6",
         "textTitle": "Data 6",
         "subTitle": "Nuestras habilidades",
