@@ -2,41 +2,25 @@
     {
         "id": "1",
         "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImagesGenerals/Group30.webp",
-        "nameCorp": "CLIENTE: SHELL COLOMBIA",
-        "subNameCorp": "Shell CPS, Fidelizando los talleres colombianos",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s.",
+        "nameCorp": "CLIENTE: RAPPI:",
+        "subNameCorp": "RAPPI:",
+        "description": "Rappi nació como un proyecto de innovación en Imaginamos. La pasión, dedicación y fuerte ADN de startup se convirtieron en los elementos claves para generar una disrupción en la industria y transformar por completo la forma en que las personas compran en línea.",
         "color": "#FBD133"
     },
     {
         "id": "2",
         "image": "https://www.imagen.com.mx/assets/img/imagen_share.png",
-        "nameCorp": "CLIENTE: CREDIBANCO",
-        "subNameCorp": "Credibanco",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s.",
+        "nameCorp": "CLIENTE: GRABILITY",
+        "subNameCorp": "GRABILITY",
+        "description": "Grability —también nacida en Imaginamos— nos ha enseñado que la tecnología debe adaptarse a los hábitos de las personas, y no al sentido contrario. Con Grability descubrimos que la experiencia de usuario y el diseño son componentes esenciales para cada transformación digital y, más importante, puede crear un cambio en la vida de millones de personas alrededor del mundo.",
         "color": "#582E87"
     },
     {
         "id": "3",
         "image": "https://www.imagen.com.mx/assets/img/imagen_share.png",
-        "nameCorp": "CLIENTE: CHIPER",
-        "subNameCorp": "Chiper",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s.",
-        "color": "#F80135"
+        "nameCorp": "CLIENTE: GRABILITY",
+        "subNameCorp": "GRABILITY",
+        "description": "Grability —también nacida en Imaginamos— nos ha enseñado que la tecnología debe adaptarse a los hábitos de las personas, y no al sentido contrario. Con Grability descubrimos que la experiencia de usuario y el diseño son componentes esenciales para cada transformación digital y, más importante, puede crear un cambio en la vida de millones de personas alrededor del mundo.",
+        "color": "#582E87"
     },
-    {
-        "id": "4",
-        "image": "https://www.bmw.com.co/content/dam/bmw/marketLATAM/bmw_com_co/Importadores/Villavicencio/fachada_485x485.jpg",
-        "nameCorp": "CLIENTE: AUTOGERMANA",
-        "subNameCorp": "Autogermana",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s.",
-        "color": "#000000"
-    },
-    {
-        "id": "5",
-        "image": "https://www.imagen.com.mx/assets/img/imagen_share.png",
-        "nameCorp": "CLIENTE: STARTUPS",
-        "subNameCorp": "Startups",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s.",
-        "color": "#5BAFE1"
-    }
 ]
