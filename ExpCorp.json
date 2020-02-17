@@ -1,8 +1,8 @@
 [
     {
         "id": "1",
-        "title": "Data 1",
-        "textTitle": "Data 1",
+        "title": "Experiencia Digital",
+        "textTitle": "Nuestra trayectoria nos ha enseñado que el éxito de todo modelo de negocio digital se basa en generar y entregar valor a través de tecnología diseñada en funcion de las necesidades de los usuarios.",
         "subTitle": "Nuestras habilidades",
         "dataSubText": ["User Experience", "User Experience", "User Experience", "User Experience", "User Experience", "User Experience"]
     },
@@ -22,8 +22,8 @@
     },
     {
         "id": "4",
-        "title": "Experiencia Digital",
-        "textTitle": "Nuestra trayectoria nos ha enseñado que el éxito de todo modelo de negocio digital se basa en generar y entregar valor a través de tecnología diseñada en funcion de las necesidades de los usuarios.",
+        "title": "Data 4",
+        "textTitle": "Data 4",
         "subTitle": "Nuestras habilidades",
         "dataSubText": ["User Experience", "User Experience", "User Experience", "User Experience", "User Experience", "User Experience"]
     },
