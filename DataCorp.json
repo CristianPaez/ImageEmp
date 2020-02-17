@@ -5,7 +5,7 @@
         "nameCorp": "CLIENTE: RAPPI:",
         "subNameCorp": "RAPPI",
         "description": "Una Startup de $100+ Millones de dólares mensuales, con Crecimiento del 25% mensual nominal.",
-        "color": "#F82E4D"
+        "color": "linear-gradient(to top, rgb(253,76,117),rgb(255,47,83),rgb(255,98,65))"
     },
     {
         "id": "2",
