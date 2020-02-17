@@ -4,7 +4,7 @@
         "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team1.jpeg",
         "name": "MARIAJOSÉ SATIZÁBAL GALLO",
         "position": "CEO",
-        "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida.",
+        "description": "Company Builder e incubadora de Startups de base Digital en América Latina.",
         "linkendin": "https://www.linkedin.com/in/mariajosesatizabal"
     },
     {
@@ -12,7 +12,7 @@
         "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team2.jpeg",
         "name": "DIEGO BARRAGÁN",
         "position": "GERENTE INNOVACIÓN",
-        "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida.",
+        "description": "Estratega y técnico en innovación creativa. Especialista en el diseño e implementación de modelos de negocio digitales.",
         "linkendin": "https://www.linkedin.com/in/diego-barragancreative"
     },
     {
@@ -20,7 +20,7 @@
         "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team5.jpeg",
         "name": "DAIAN QUITENRO",
         "position": "GERENTE COMERCIAL",
-        "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida.",
+        "description": "Estratega digital, venta consultiva de proyectos digitales. Apasionada por el comercio electrónico.",
         "linkendin": "https://www.linkedin.com/in/daian-quintero-56088931"
     },
     {
@@ -28,23 +28,23 @@
         "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team4.jpeg",
         "name": "MICHAEL DUARTE",
         "position": "GERENTE TECNOLOGÍA",
-        "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida.",
+        "description": "Líder y estratega de proyectos de software y transformación digital. Apasionado por construir servicios y productos tech.",
         "linkendin": "https://www.linkedin.com/in/michael-ampudia-duarte"
     },
     {
         "id": 5,
         "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team6.jpeg",
-        "name": "ANGELA MARIA",
+        "name": "ANGELA MARIA BEDOYA",
         "position": "GERENTE JURÍDICO",
-        "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida.",
+        "description": "Abogada con experiencia en servicios profesionales de consultoría, especialista en proyectos de tecnología y company bulding..",
         "linkendin": "https://www.linkedin.com/in/angela-leagal-tech-expert"
     },
     {
         "id": 6,
         "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team7.jpeg",
         "name": "JAVIER GALLEGO",
-        "position": "CARGO",
-        "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida.",
+        "position": "",
+        "description": "Líder de proyectos encaminado a la gestión, seguimiento y control de los proyectos digitales. Apasionado por la Gerencia de Oficinas de Proyectos.",
         "linkendin": "https://co.linkedin.com/in/javier-gallego-anaya-229805127"
     },
     {
@@ -52,7 +52,7 @@
         "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImageTeam/Team8.jpeg",
         "name": "JUAN IGNACIO VÉLEZ",
         "position": "GERENTE EXPERIENCIA",
-        "description": "Quote inteligente y muy chévere que deje a la gente pensando y sorporendida.",
+        "description": "Consultor y coach para modelos de negocio. Líder de Diseño estratégico de producto. Especialista en Estrategias de Marketing on/off.",
         "linkendin": "https://www.linkedin.com/in/juan-velez-ucros"
     }
 ]
