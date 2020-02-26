@@ -2,25 +2,25 @@
     {
         "id": "1",
         "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImagesGenerals/RappiImage.webp",
-        "nameCorp": "CLIENTE: RAPPI:",
-        "subNameCorp": "RAPPI",
-        "description": "Una Startup de $100+ Millones de dólares mensuales, con Crecimiento del 25% mensual nominal.",
-        "color": "#FF2E4B"
+        "nameCorp": "INTRAEMPRENDIMIENTO: Rappi",
+        "subNameCorp": "Revolucionando las compras en dispositivos móviles",
+        "description": "Rappi es el primer unicornio del país que a través de su super app permite a sus usuarios recuperar el tiempo integrando multiples productos y servicios que se entregan a través de un modelo colaborativo de delivery.",
+        "color": "#F75D63"
     },
     {
         "id": "2",
         "image": "https://raw.githubusercontent.com/CristianPaez/ImageEmp/master/ImagesGenerals/ChiperImage.webp",
-        "nameCorp": "CLIENTE: CHIPER",
-        "subNameCorp": "CHIPER",
-        "description": "Startup para el sector retail B2B2C con 1208 tiendas en Bogotá en  menos de 1 año de operación.",
-        "color": "#F80135"
+        "nameCorp": "INTRAEMPRENDIMIENTO: Chipper",
+        "subNameCorp": "Nos reinventamos  las tiendas de barrio.",
+        "description": "Chiper es una plataforma que está revolucinando las tiendas de barrio en latinoamérica a través de un ecosistema digital que conecta las marcas de consumo masivo directamente con los tenderos.",
+        "color": "#FA0236"
     },
     {
         "id": "3",
         "image": "https://www.grability.com/hs-fs/hubfs/Grability_Animated_Mockup_Fallback.jpg?width=1200&height=800&name=Grability_Animated_Mockup_Fallback.jpg",
-        "nameCorp": "CLIENTE: GRABILITY",
-        "subNameCorp": "GRABILITY",
-        "description": "Startup nacida en Imaginamos en dónde descubrimos que la experiencia de usuario y el diseño son componentes esenciales para cada transformación digital.",
+        "nameCorp": "INTRAEMPRENDIMIENTO: Grability Inc",
+        "subNameCorp": "Revolucionando las compras en dispositivos móviles",
+        "description": "Grability digitaliza el momento de compra en supermercados a través de una experiencia de usuario fluida, intuitiva y memorable, basada en el entendimiento de sus necesidades.",
         "color": "#05CE7C"
     }
 ]
