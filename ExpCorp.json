@@ -1,38 +1,38 @@
-[
+[   
     {
         "id": "1",
-        "title": "Experiencia Digital",
-        "textTitle": "Nuestra trayectoria nos ha enseñado que el éxito de todo modelo de negocio digital se basa en generar y entregar valor a través de experiencias memorables, diseñadas en funcion de las necesidades de los usuarios.",
-        "subTitle": "Nuestras habilidades",
-        "dataSubText": ["User Experience", "User Interface", "User Research", "Data driven design ", "UX Writting", "Motion Design", "Design consultancy"]
-    },
-    {
-        "id": "2",
         "title": "Estrategia de Negocio",
         "textTitle": "Con el tiempo hemos encontrado que el objetivo de la estrategia es mitigar el riesgo e incrementar la posibilidad de éxito de los modelos de negocio de base digital, con el fin único de construir productos que realmente respondan a problemas y necesidades globales que puedan ser disrruptivas en el mercado.",
         "subTitle": "Nuestras habilidades",
         "dataSubText": ["Bussines design", "Design Thinking", "Lean Start up", "Dragon Fly", "Service Design", "Modelos Financiera"]
     },
     {
-        "id": "3",
-        "title": "Desarrollo Tecnológico",
-        "textTitle": "La velocidad y el cambio en la forma de vivir de las personas está dirtectamente influenciada por los avances tecnologícos; adaptarnos a estos nos ha llevado a enteder que debemos enfocar la  tecnología como un facilitador entre negocios y usuarios.",
-        "subTitle": "Nuestras habilidades",
-        "dataSubText": ["Infraestructura tecnológica", "Servicios y microservicios", "Javascript & Typescript", "Inteligencia de datos", "Machine learning", "Big Data", "Blockchain"]
-    },
-    {
-        "id": "4",
+        "id": "2",
         "title": "Innovación",
         "textTitle": "El mundo y el mercado esta en un constante cambio, por ello es necesario que nos re-inventemos constantemente y comencemos a generarle valor a nuestros usuarios. La innovación en los modelos de negocio son la clave para crear futuros que no existen.",
         "subTitle": "Nuestras habilidades",
         "dataSubText": ["Mindset de Emprendimiento", "Metódologias", "Human centered Design", "Workshop de escalamiento", "Potencialización de MDN"]
     },
     {
-        "id": "5",
+        "id": "3",
+        "title": "Experiencia Digital",
+        "textTitle": "Nuestra trayectoria nos ha enseñado que el éxito de todo modelo de negocio digital se basa en generar y entregar valor a través de experiencias memorables, diseñadas en funcion de las necesidades de los usuarios.",
+        "subTitle": "Nuestras habilidades",
+        "dataSubText": ["User Experience", "User Interface", "User Research", "Data driven design ", "UX Writting", "Motion Design", "Design consultancy"]
+    },
+    {
+        "id": "4",
         "title": "Operaciones",
         "textTitle": "Operar un negocio digital se ha convertido en un gran reto para las empresas y en un mundo que cambia tan rápido debemos ir un paso más adelante con el objetivo de ser costo-eficientes de la mano de la tecnología para lograr nuestros objetivos del negocio.",
         "subTitle": "Nuestras habilidades",
         "dataSubText": ["Logística Comercial", "Digitalización de procesos", "Optimización de procesos", "Automatización de procesos", "Cadena de abastecimiento", "Transformación Digital"]
+    },
+    {
+        "id": "5",
+        "title": "Desarrollo Tecnológico",
+        "textTitle": "La velocidad y el cambio en la forma de vivir de las personas está dirtectamente influenciada por los avances tecnologícos; adaptarnos a estos nos ha llevado a enteder que debemos enfocar la  tecnología como un facilitador entre negocios y usuarios.",
+        "subTitle": "Nuestras habilidades",
+        "dataSubText": ["Infraestructura tecnológica", "Servicios y microservicios", "Javascript & Typescript", "Inteligencia de datos", "Machine learning", "Big Data", "Blockchain"]
     },
     {
         "id": "6",
